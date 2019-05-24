@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Dojo2.dir/main.cpp.o CMakeFiles/Dojo2.dir/RpcApi.cpp.o CMakeFiles/Dojo2.dir/RPCInterface.cpp.o CMakeFiles/Dojo2.dir/RPCReset.cpp.o CMakeFiles/Dojo2.dir/RpcTest.cpp.o CMakeFiles/Dojo2.dir/RPCAccessCheck.cpp.o CMakeFiles/Dojo2.dir/RPCAccessCheckTest.cpp.o  -o Dojo2 -lgtest -lgmock -lpthread 
